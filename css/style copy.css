@@ -273,8 +273,7 @@ body {
   position: relative;
   margin-top: -190px;
   top: 190px;
-  background-color: #fff
-    ;
+  background-color: #fff;
   width: 88%;
   padding-left: calc((100% - 1110px) / 2);
   padding-right: 15px;
