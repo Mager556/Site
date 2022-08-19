@@ -356,6 +356,9 @@ body {
   .footer__center-column:nth-child(3) {
     border-right: none;
   }
+  .motiv__title {
+    font-size: 40px;
+  }
 }
 
 .footer__center-column:nth-child(4) {
