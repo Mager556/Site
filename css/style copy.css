@@ -273,7 +273,8 @@ body {
   position: relative;
   margin-top: -190px;
   top: 190px;
-  background-color: #fff;
+  box-shadow: 50px 130px 100px rgba(0, 0, 0, 0.145947);
+  background-color: #fafafa;
   width: 88%;
   padding-left: calc((100% - 1110px) / 2);
   padding-right: 15px;
